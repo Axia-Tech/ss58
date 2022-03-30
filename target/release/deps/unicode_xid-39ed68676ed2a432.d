@@ -1,0 +1,8 @@
+/home/sankar/ZeeveCache/Axiatech/ss58/target/release/deps/unicode_xid-39ed68676ed2a432.rmeta: /home/sankar/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-xid-0.2.2/src/lib.rs /home/sankar/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-xid-0.2.2/src/tables.rs
+
+/home/sankar/ZeeveCache/Axiatech/ss58/target/release/deps/libunicode_xid-39ed68676ed2a432.rlib: /home/sankar/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-xid-0.2.2/src/lib.rs /home/sankar/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-xid-0.2.2/src/tables.rs
+
+/home/sankar/ZeeveCache/Axiatech/ss58/target/release/deps/unicode_xid-39ed68676ed2a432.d: /home/sankar/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-xid-0.2.2/src/lib.rs /home/sankar/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-xid-0.2.2/src/tables.rs
+
+/home/sankar/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-xid-0.2.2/src/lib.rs:
+/home/sankar/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-xid-0.2.2/src/tables.rs:
